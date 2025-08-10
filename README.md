@@ -7,10 +7,13 @@ A responsive React-based marketplace for purchasing and applying subtitle stylin
 This application simulates a virtual marketplace where users can browse, purchase, and apply subtitle styling templates using a credit-based system. It's designed for video editor applications where users need attractive subtitle styles for their auto-generated captions.
 
 ## Demo Link
-Visit the website: [ModernMobiles](https://modern-mobiles.vercel.app/)
+Visit the website: [SubStyle Maret](https://sub-style-market.vercel.app/)
 
 ## Demo Video
-Watch the short video (5 mins): [Loom Video](https://www.loom.com/share/704f6558ec294d14936c3a08c6e7c0a5?sid=6fb5a8ef-a03a-4fa8-8b1c-33a6766d5c2d)
+Watch the short video (5 mins): [Loom Video](https://www.loom.com/share/5dfee54792af4e31aeab47a98da976f8?sid=f97ca35b-f984-4748-af92-2e1e0046c0ed)
+
+## Home Page Screen Short
+![Home Page](./src/assets/SubStyleMarket_SS.png)
 
 ## ✨ Features
 
